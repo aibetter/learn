@@ -1,0 +1,15 @@
+{
+  "name": "learn",
+  "description": "Collects and summarizes information in the field of AI",
+  "type": "module",
+  "author": "litingyes",
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
+}
