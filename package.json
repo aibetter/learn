@@ -3,6 +3,7 @@
   "description": "Collects and summarizes information in the field of AI",
   "type": "module",
   "author": "litingyes",
+  "license": "CC-BY-4.0",
   "packageManager": "pnpm@10.13.1",
   "devDependencies": {
     "vitepress": "^1.6.3"
